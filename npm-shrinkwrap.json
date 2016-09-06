@@ -490,9 +490,9 @@
       "resolved": "https://registry.npmjs.org/lru-cache/-/lru-cache-2.7.3.tgz"
     },
     "make-error": {
-      "version": "1.2.0",
+      "version": "1.2.1",
       "from": "make-error@>=1.1.1 <2.0.0",
-      "resolved": "https://registry.npmjs.org/make-error/-/make-error-1.2.0.tgz"
+      "resolved": "https://registry.npmjs.org/make-error/-/make-error-1.2.1.tgz"
     },
     "mime-db": {
       "version": "1.23.0",
